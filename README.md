@@ -1,6 +1,7 @@
 # 1. 数据结构
 ## 1.1 链表
-+ [模拟单链表](https://github.com/nfssuzukaze/AlgorithmLearningNotes/issues/2)
++ [数组模拟单链表](https://github.com/nfssuzukaze/AlgorithmLearningNotes/issues/2)
++ [数组模拟双链表](https://github.com/nfssuzukaze/AlgorithmLearningNotes/issues/3)
 
 
 # 2. 最短路问题
